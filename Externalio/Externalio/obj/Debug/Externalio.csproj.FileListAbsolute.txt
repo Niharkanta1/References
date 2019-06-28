@@ -5,3 +5,10 @@ C:\Users\RaINi\Documents\GitHub\csgo-external-apes\AimFactory-External\Externali
 C:\Users\RaINi\Documents\GitHub\csgo-external-apes\AimFactory-External\Externalio\obj\Debug\Externalio.exe
 C:\Users\RaINi\Documents\GitHub\csgo-external-apes\AimFactory-External\Externalio\obj\Debug\Externalio.pdb
 C:\Users\RaINi\Documents\GitHub\csgo-external-apes\AimFactory-External\Externalio\obj\Debug\Externalio.csprojResolveAssemblyReference.cache
+C:\VSWorkspace\References\Externalio\Externalio\bin\Debug\Externalio.exe.config
+C:\VSWorkspace\References\Externalio\Externalio\bin\Debug\Externalio.exe
+C:\VSWorkspace\References\Externalio\Externalio\bin\Debug\Externalio.pdb
+C:\VSWorkspace\References\Externalio\Externalio\obj\Debug\Externalio.csprojAssemblyReference.cache
+C:\VSWorkspace\References\Externalio\Externalio\obj\Debug\Externalio.csproj.CoreCompileInputs.cache
+C:\VSWorkspace\References\Externalio\Externalio\obj\Debug\Externalio.exe
+C:\VSWorkspace\References\Externalio\Externalio\obj\Debug\Externalio.pdb
