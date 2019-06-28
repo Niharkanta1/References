@@ -1,0 +1,14 @@
+C:\Users\RaINi\source\repos\AimFactory-External\AimFactory_External\bin\Debug\AimFactory_External.exe.config
+C:\Users\RaINi\source\repos\AimFactory-External\AimFactory_External\bin\Debug\AimFactory_External.exe
+C:\Users\RaINi\source\repos\AimFactory-External\AimFactory_External\bin\Debug\AimFactory_External.pdb
+C:\Users\RaINi\source\repos\AimFactory-External\AimFactory_External\obj\Debug\AimFactory_External.csproj.CoreCompileInputs.cache
+C:\Users\RaINi\source\repos\AimFactory-External\AimFactory_External\obj\Debug\AimFactory_External.exe
+C:\Users\RaINi\source\repos\AimFactory-External\AimFactory_External\obj\Debug\AimFactory_External.pdb
+C:\Users\RaINi\source\repos\AimFactory-External\AimFactory_External\obj\Debug\AimFactory_External.csprojResolveAssemblyReference.cache
+C:\Users\RaINi\Documents\GitHub\csgo-external-apes\AimFactory-External\AimFactory_External\bin\Debug\AimFactory_External.exe.config
+C:\Users\RaINi\Documents\GitHub\csgo-external-apes\AimFactory-External\AimFactory_External\bin\Debug\AimFactory_External.exe
+C:\Users\RaINi\Documents\GitHub\csgo-external-apes\AimFactory-External\AimFactory_External\bin\Debug\AimFactory_External.pdb
+C:\Users\RaINi\Documents\GitHub\csgo-external-apes\AimFactory-External\AimFactory_External\obj\Debug\AimFactory_External.csprojResolveAssemblyReference.cache
+C:\Users\RaINi\Documents\GitHub\csgo-external-apes\AimFactory-External\AimFactory_External\obj\Debug\AimFactory_External.csproj.CoreCompileInputs.cache
+C:\Users\RaINi\Documents\GitHub\csgo-external-apes\AimFactory-External\AimFactory_External\obj\Debug\AimFactory_External.exe
+C:\Users\RaINi\Documents\GitHub\csgo-external-apes\AimFactory-External\AimFactory_External\obj\Debug\AimFactory_External.pdb
